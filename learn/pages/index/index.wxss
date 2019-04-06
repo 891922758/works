@@ -38,7 +38,7 @@
 .column{
   word-wrap:break-word; 
   margin-top:10px;
-  width:240rpx;
+  width:237rpx;
 }
 
 .column1{
@@ -46,8 +46,8 @@
 }
 
 .column2{
-  margin-left:15rpx;
-  margin-right:15rpx;
+  margin-left:14.5rpx;
+  margin-right:14.5rpx;
 }
 
 .column3{
